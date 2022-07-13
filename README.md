@@ -5,6 +5,8 @@
 - 🌱 Actualmente estou aprendendo... ...
 - 🌱 Estudante Sistema da informação... ...
 
+- Minhas Redes Sociais
+
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Ok-Acanthaceae-8230/)
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b/)
