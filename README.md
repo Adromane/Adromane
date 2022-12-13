@@ -25,20 +25,23 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "github.com/Adromane">
-      <img width="30" src="github.png">
+    <a href = "https://www.youtube.com//">
+      <img width="25" src="logo-youtube.jpg">
     </a>
     <a href = "https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b//">
-      <img width="25" src="linkedin (1).png">
+      <img width="23" src="linkedin (1).png">
     </a>
-    <a href = "https://www.youtube.com//">
-      <img width="35" src="youtube (1).png">
+    <a href = "https://github.com/Adromane//">
+      <img width="23" src="github.png">
     </a>
     <a href = "https://twitter.com/home/">
-      <img width="25" src="twitter.png">
+      <img width="23" src="logo-twitter 3.jpg">
     </a>
     <a href = "https://www.instagram.com/patrick.jh_travolta//">
-      <img width="25" src="instagram (1).png">
+      <img width="29" src="instagram (1).png">
+    </a>
+    <a href = "https://www.facebook.com//">
+      <img width="23" src="logo-facebook.2.jpg">
     </a>
 </div>
   
