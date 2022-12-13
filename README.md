@@ -29,13 +29,16 @@
       <img width="30" src="github.png">
     </a>
     <a href = "https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b//">
-      <img width="25" src="linkedin.png">
+      <img width="25" src="linkedin (1).png">
     </a>
     <a href = "https://www.youtube.com//">
-      <img width="35" src="youtube.png">
+      <img width="35" src="youtube (1).png">
     </a>
     <a href = "https://twitter.com/home/">
       <img width="25" src="twitter.png">
+    </a>
+    <a href = "https://www.instagram.com/patrick.jh_travolta//">
+      <img width="25" src="instagram (1).png">
     </a>
 </div>
   
