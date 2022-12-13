@@ -12,7 +12,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="code.gif">
+    <img align="left" height="250" alt="coding-time" src="giphy (2)-prog.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,17 +25,17 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: work.luigi.fonseca@gmail.com">
-      <img width="30" src="gmail.svg">
+    <a href = "github.com/Adromane">
+      <img width="30" src="github.png">
     </a>
-    <a href = "https:///">
-      <img width="25" src="linkedin.svg">
+    <a href = "https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b//">
+      <img width="25" src="linkedin.png">
     </a>
     <a href = "https://www.youtube.com//">
       <img width="35" src="youtube.png">
     </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
+    <a href = "https://twitter.com/home/">
+      <img width="25" src="twitter.png">
     </a>
 </div>
   
