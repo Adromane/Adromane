@@ -25,6 +25,9 @@
     
   
   <h1 align="center">Redes Sociais</h1>
+  <a href = "https://mail.google.com/mail/u/0/#inbox//">
+      <img width="23" src="gmail.png">
+    </a>
     <a href = "https://www.youtube.com//">
       <img width="25" src="logo-youtube.jpg">
     </a>
