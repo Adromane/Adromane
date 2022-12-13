@@ -37,7 +37,7 @@
     <a href = "https://github.com/Adromane//">
       <img width="23" src="github.png">
     </a>
-    <a href = "https://twitter.com/home/">
+    <a href = "https://twitter.com/Patrick05904738">
       <img width="23" src="logo-twitter 3.jpg">
     </a>
     <a href = "https://www.instagram.com/patrick.jh_travolta//">
