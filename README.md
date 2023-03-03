@@ -3,6 +3,7 @@
 - 🌱 J'apprends actuellement... 
 - 🌱 Système d'information des étudiants... 
 - how can you find me: vieirapatrik97@gmail.com
+- you can consult my works:gomes97.netlify.app/
 
 <div>
   
