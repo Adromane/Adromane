@@ -1,8 +1,8 @@
 ## Salut! Je suis Patrick Adromane Vieira Gomes👋
 - 🔭 Passionné de technologie...
 - 🌱 J'apprends actuellement... 
-- 🌱 Système d'information des étudiants... 
-- how can you find me: vieirapatrik97@gmail.com
+- 🌱 J'aide les gens à devenir programmeurs et indépendants 
+- comment peux-tu me trouver: vieirapatrik97@gmail.com
 - you can consult my works: http://pvg97.netlify.app/
 
 <div>
