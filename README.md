@@ -3,10 +3,11 @@
 - 🌱 J'apprends actuellement... 
 - 🌱 J'aide les gens à devenir programmeurs et indépendants 
 - comment peux-tu me trouver: vieirapatrik97@gmail.com
-- you can consult my works: http://pvg97.netlify.app/
+- vous pouvez voir mon site: http://pvg97.netlify.app/
 
 <div>
-  
+<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
