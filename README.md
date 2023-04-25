@@ -4,11 +4,9 @@
 - 🌱 J'aide les gens à devenir programmeurs et indépendants 
 - comment peux-tu me trouver: vieirapatrik97@gmail.com
 
-<div>
-<img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <div align="center">
+ <a href="https://github.com/Adromane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&theme=buefy&hide_border=true" /></a> 
 </div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
