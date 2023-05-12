@@ -1,8 +1,8 @@
-## Salut! Je suis Patrick Adromane Vieira Gomes👋
-- 🔭 Passionné de technologie...
-- 🌱 J'apprends actuellement... 
-- 🌱 J'aide les gens à devenir programmeurs et indépendants 
-- comment peux-tu me trouver: vieirapatrik97@gmail.com
+##Hi! I am Patrick Adromane Vieira Gomes👋
+- 🔭 Passionate about technology...
+- 🌱I am currently learning... 
+- 🌱 I help people become programmers and freelancers 
+- how can you find me: vieirapatrik97@gmail.com
 
   <div align="center">
  <a href="https://github.com/Adromane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a>  <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&theme=buefy&hide_border=true" /></a> 
