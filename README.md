@@ -1,7 +1,10 @@
  ## H! I am Patrick Adromane Vieira Gomes👋
+ A frontend developer 👨‍💻 and a student 🚀
 - 🔭 Passionate about technology...
 - 🌱I am currently learning... 
-- 🌱 I help people become programmers and freelancers 
+- 🌱I help people become programmers and freelancers 
+- 🔭I am currently working on the...
+- 👯 I'm looking to collaborate on open source projects
 - how can you find me: vieirapatrik97@gmail.com
 
   <div align="center">
@@ -25,7 +28,7 @@
    </div>
     
   
-  <h1 align="center">Redes Sociais</h1>
+  <h1 align="center">Languages and Tools:</h1>
   <a href = "https://mail.google.com/mail/u/0/#inbox//">
       <img width="23" src="gmail.png">
     </a>
