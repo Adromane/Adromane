@@ -13,6 +13,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
+<div align="center">
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="giphy (2)-prog.gif">
     <h1 align="center">Languages and Tools</h1>
