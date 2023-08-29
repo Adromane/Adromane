@@ -7,11 +7,12 @@
 - 👯 I'm looking to collaborate on open source projects
 - how can you find me: vieirapatrik97@gmail.com
 
-  <div align="center">
- <a href="https://github.com/Adromane/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> </a> <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&theme=buefy&hide_border=true" /></a> 
+<div align="center">
+    <a href="https://github.com/Adromane">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adromane&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adromane&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-<div  align="center"> 
+ 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="giphy (2)-prog.gif">
     <h1 align="center">Languages and Tools</h1>
