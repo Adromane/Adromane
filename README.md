@@ -7,6 +7,13 @@
 - 👯 I'm looking to collaborate on open source projects
 - how can you find me: vieirapatrik97@gmail.com
 
+<a href="https://github.com/Adromane/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Adromane" />
+</a>
+<a href="https://github.com/Adromane/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adromane&layout=compact&langs_count=8&card_width=320" />
+</a>
+  
 
 <div align="center">
   <div style="display: inline_block"><br>
