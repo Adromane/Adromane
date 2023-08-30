@@ -53,5 +53,4 @@
       <img width="23" src="logo-facebook.2.jpg">
     </a>
 </div>
-  
-![Snake animation](https://github.com/Adromane/Adromane/blob/output/github-contribution-grid-snake.svg)
+ 
