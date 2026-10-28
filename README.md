@@ -1,6 +1,27 @@
-# 💫 About Me:
-🔭 Passionate about technology...<br>🌱I am currently learning...<br>🌱I help people become programmers and freelancers<br>🔭I am currently working on the...<br>👯I'm looking to collaborate on open source projects<br>      how can you find me: vieirapatrik97@gmail.com
+# 👋 Bonjour, je suis Patrik Vieira Gomes
 
+🎓 Ingénieur en Informatique de Gestion, diplômé de l'UCAO Dakar.
+
+💻 Je m'intéresse particulièrement à l'administration systèmes et réseaux, à Linux, à Windows Server et aux pratiques DevOps.
+
+### 🛠️ Compétences et technologies
+- **Systèmes :** Linux Ubuntu, Windows Server
+- **Réseaux :** TCP/IP, DNS, DHCP, Active Directory
+- **Développement web :** HTML, CSS, JavaScript, PHP, Laravel
+- **Outils :** Git, GitHub, machines virtuelles
+
+### 🚀 Projets
+- Configuration d'un environnement Windows Server avec Active Directory, DNS et DHCP.
+- Développement d'applications web.
+- Portfolio personnel : [Consulter mon portfolio](https://patrick97.netlify.app/#/home)
+
+### 🎯 Objectif professionnel
+Développer mes compétences pratiques en systèmes et réseaux, administration informatique et DevOps, tout en continuant à progresser en développement web.
+
+### 📫 Contact
+- Email : vieirapatrik97@gmail.com
+- GitHub : [Adromane](https://github.com/Adromane)
+- LinkedIn : [Mon profil LinkedIn](https://www.linkedin.com/in/patrik-adromane-vieira-gomes-14970722b/)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/test) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/test) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/test) 
